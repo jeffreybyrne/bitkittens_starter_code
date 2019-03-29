@@ -35,3 +35,9 @@ main {
   top: 440px;
   right: 210px;
 }
+
+#cat-book-section {
+  left: 0px;
+  position: fixed;
+  display: none;
+}
